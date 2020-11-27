@@ -1,6 +1,12 @@
 Historical horse population in Canada
 ================
 
+  - [Aim](#aim)
+  - [Data](#data)
+  - [Methods](#methods)
+  - [Results](#results)
+  - [References](#references)
+
 ## Aim
 
 This project explores the historical population of horses in Canada
@@ -70,6 +76,8 @@ Table 1. Maximum and minimum number of horses for each province between
 Below we zoom in and look at the province of Alberta:
 
 ![](hist_horse_pop_files/figure-gfm/plot%20province-1.png)<!-- -->
+
+Figure 2. Horse populations for Alberta between 1940 - 1972.
 
 # References
 
